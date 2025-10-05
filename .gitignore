@@ -16,3 +16,6 @@ dist/
 # IDE / editor stuff
 .vscode/
 .idea/
+
+# data
+/data
